@@ -15,7 +15,7 @@ jobs:
         uses: actions/setup-java@v2
         with:
           java-version: '11'  # 设置为 Java 11
-          distribution: 'zulu'  # 指定 Java 发行版，解决 distribution 错误
+          distribution: 'adoptopenjdk'  # 指定 Java 发行版，解决 distribution 错误
 
       - name: Set up NDK
         run: |
@@ -29,6 +29,9 @@ jobs:
 
       - name: Set up Gradle
         uses: gradle/wrapper-validation-action@v1
+
+      - name: Grant Execute Permission to gradlew
+        run: chmod +x ./gradlew  # 给 gradlew 脚本授予执行权限
 
       - name: Build APK
         run: ./gradlew assembleRelease -Darch=arm64
