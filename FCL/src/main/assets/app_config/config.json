@@ -26,7 +26,7 @@
       },
       "gameDir": "/storage/emulated/0/MoWhite/.minecraft",
       "selectedMinecraftVersion": ""
-    },
+    }
   },
   "downloadThreads": 64,
   "downloadType": "bmclapi",
