@@ -1,0 +1,29 @@
+name: Build and Upload APK
+
+on:
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up JDK
+        uses: actions/setup-java@v2
+        with:
+          java-version: '11'  # Android 项目常用 Java 版本
+
+      - name: Set up Gradle
+        uses: gradle/wrapper-validation-action@v1
+
+      - name: Build APK
+        run: ./gradlew assembleRelease -Darch=arm64
+
+      - name: Upload APK to Releases
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: 'FCL/build/outputs/apk/release/*.apk'  # 构建输出的 APK 文件路径
+          token: ${{ secrets.GITHUB_TOKEN }}
