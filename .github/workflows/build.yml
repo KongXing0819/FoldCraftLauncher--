@@ -1,7 +1,7 @@
 name: Build and Upload APK
 
 on:
-  workflow_dispatch: 
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
   build:
@@ -14,7 +14,18 @@ jobs:
       - name: Set up JDK
         uses: actions/setup-java@v2
         with:
-          java-version: '11'  # Android 项目常用 Java 版本
+          java-version: '11'  # 设置为 Java 11
+          distribution: 'zulu'  # 指定 Java 发行版，解决 distribution 错误
+
+      - name: Set up NDK
+        run: |
+          # 下载并安装 NDK
+          mkdir -p $HOME/ndk
+          wget https://dl.google.com/android/repository/android-ndk-r21e-linux-x86_64.zip -O $HOME/ndk/ndk.zip
+          unzip -q $HOME/ndk/ndk.zip -d $HOME/ndk
+          
+          # 配置 local.properties 文件，添加 NDK 路径
+          echo "ndk.dir=$HOME/ndk/android-ndk-r21e" >> $GITHUB_WORKSPACE/local.properties
 
       - name: Set up Gradle
         uses: gradle/wrapper-validation-action@v1
