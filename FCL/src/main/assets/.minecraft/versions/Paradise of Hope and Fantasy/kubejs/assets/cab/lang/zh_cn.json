@@ -1,0 +1,131 @@
+{   
+    "item.cab.bullet_shell_uncomplete":"未装配完成的弹壳零件",
+    "item.cab.bullet_shell":"空弹壳",
+    "item.cab.bullet_uncomplete":"未装配完成的子弹零件",
+
+    "item.cab.sulfur":"硫磺粉",
+
+    "item.cab.lang_ballet_shell":"长空弹壳",
+    "item.cab.lang_ballet_uncomplete":"未装配完成的长子弹零件",
+    "item.cab.lang_ballet_shell_uncomplete":"未装配完成的长弹壳零件",
+    
+    "item.cab.wrench":"装配调校扳手",
+    
+    "item.cab.steel":"钢锭",
+    "item.cab.steel_plate":"钢板",
+    "item.cab.steel_plate_uncomplete":"钢板半成品",
+    "item.cab.steel_nuggut":"钢粒",
+    "item.cab.steel_uncomplete":"钢锭原胚",
+
+    "block.cab.deep_rock_sand":"黑沙",
+    "block.cab.deep_gravel":"深板岩沙砾",
+
+    "item.cab.meitanfen":"煤炭粉",
+   
+
+    "block.cab.brass_machine":"黄铜机械装置",
+    "block.cab.copper_machine":"铜制机械装置",
+    "block.cab.andesite_machine":"安山机械装置",
+
+    "block.cab.rubber_block":"橡胶块",
+    "block.cab.cured_rubber_block":"固化橡胶块",
+
+
+    "item.cab.rubber":"橡胶",
+    "item.cab.cured_rubber":"固化橡胶",
+
+    "item.cab.incomplete_kinetic_mechanism":"未完成的动力构件",
+    "item.cab.incomplete_sealed_mechanism":"基于动力构件（半成品）",
+
+    "item.cab.sealed_mechanism":"密封构件",
+    "item.cab.kinetic_mechanism":"动力构件",
+
+    "item.cab.algal_blend":"海藻粘土",
+    "item.cab.algal_brick":"海藻砖",
+    "item.cab.shinystone_fluid_bucket":"萤石激发溶液桶",
+    "item.cab.shinystone_fluid":"萤石激发溶液",
+    "item.cab.redstone_fluid_bucket":"红石稳定溶液桶",
+    "item.cab.blood_bucket":"血液桶",
+    "item.cab.redstone_fluid":"红石稳定溶液",
+    "item.cab.fine_sand":"细沙",
+    "item.cab.fine_sand_bucket":"细沙桶",
+
+    "item.cab.apple_milk_tea_fluid":"苹果奶茶",
+    "item.cab.apple_milk_tea_fluid_bucket":"桶装苹果奶茶",
+
+    "item.cab.pineapple_milk_tea_fluid":"菠萝奶茶",
+    "item.cab.pineapple_milk_tea_fluid_bucket":"桶装苹菠萝奶茶",
+
+    "item.cab.coffee_milk_tea_fluid":"冰镇咖啡",
+    "item.cab.coffee_milk_tea_fluid_bucket":"桶装冰镇咖啡",
+
+    "item.cab.coconut_coffee_milk_tea_fluid":"冰镇椰香巧克力雪顶咖啡",
+    "item.cab.coconut_coffee_milk_tea_fluid_bucket":"桶装冰镇椰香巧克力雪顶咖啡",
+
+    "block.yuushya.beef_plate":"牛排木餐盘",
+    "block.biomesoplenty.mossy_black_sand":"长满苔藓的黑沙",
+    "block.biomesoplenty.black_sand":"黑砂",
+    "block.biomesoplenty.thermal_calcite":"炙热方解石",
+    "block.biomesoplenty.thermal_calcite_vent":"炙热方解石喷口",
+
+    "block.biomesoplenty.brimstone_bricks":"硫磺石砖",
+
+    "block.biomesoplenty.brimstone_brick_slab":"硫磺石砖台阶",
+    "block.biomesoplenty.brimstone_brick_stairs":"硫磺石砖楼梯",
+    "block.biomesoplenty.brimstone_brick_wall":"硫磺石砖墙壁",
+    "block.biomesoplenty.chiseled_brimstone_bricks":"雕刻硫磺石砖",
+
+    "block.biomesoplenty.rose_quartz_block":"红水晶块",
+    "block.biomesoplenty.rose_quartz_cluster":"红水晶晶簇",
+    "block.biomesoplenty.large_rose_quartz_bud":"大型红水晶芽",
+    "block.biomesoplenty.medium_rose_quartz_bud":"中型红水晶芽",
+    "block.biomesoplenty.small_rose_quartz_bud":"小型红水晶芽",
+    "item.biomesoplenty.rose_quartz_chunk":"红水晶块",
+    "block.biomesoplenty.barnacles":"藤壶",
+
+    "block.biomesoplenty.wispjelly":"固体烟雾",
+    "block.biomesoplenty.algal_end_stone":"浮游藻末地石",
+    "block.biomesoplenty.unmapped_end_stone":"切割末地石柱",
+    "block.biomesoplenty.null_end_stone":"末地石？（未知）",
+
+    "block.biomesoplenty.cypress_sapling":"柏树树苗",
+    "block.biomesoplenty.cypress_leaves":"柏树树叶",
+    "block.biomesoplenty.snowblossom_sapling":"雪花树苗",
+    "block.biomesoplenty.snowblossom_leaves":"雪花树叶",
+
+    "block.autumnity.orange_maple_leaf_pile":"橙色落叶堆",
+    "block.autumnity.yellow_maple_leaf_pile":"黄色落叶堆",
+
+    "block.hmag.ghast_tear_block":"恶魂之泪块",
+    "item.hmag.ghast_tear_block":"恶魂之泪块",
+
+    "item.biomesoplenty.blood_bucket": "下界稠血桶",
+
+
+
+    "item.farm_and_charm.compost": "堆肥袋",
+    "block.create.honey": "甜醇蜂蜜",
+    "fluid.create.honey": "甜醇蜂蜜",
+
+
+    
+
+    "item.lightmanscurrency.wallet_leather": "皮革钱袋",
+    "item.lightmanscurrency.wallet_ender_dragon": "末影龙钱袋",
+    "item.lightmanscurrency.variant_wand": "变体转换手杖",
+    "block.lightmanscurrency.atm": "自动取款机",
+    "block.lightmanscurrency.money_bag": "钱袋",
+
+    "item.farm_and_charm.dough": "发酵面团",
+    "fluid.create.chocolate": "黏糊糊巧克力",
+    "block.biomesoplenty.blood":"下界粘稠血液"
+
+
+
+
+    
+    
+}
+
+
+

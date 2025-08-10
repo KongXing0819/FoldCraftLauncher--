@@ -1,0 +1,70 @@
+{
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 43,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 29,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 45,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.ContainerScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 44,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 28,
+                "top": -21
+            }
+        }
+    },
+    "com.Pink_Cats.teleporter.menu.screen.TransferBlockContainScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 138,
+                "bottom": 29
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 100,
+                "top": -1
+            },
+            "SORT": {
+                "horizontalOffset": -36,
+                "top": 18
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -24,
+                "top": 29
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -1,
+                "top": 29
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 28,
+                "top": 28
+            },
+            "SETTINGS": {
+                "horizontalOffset": 11,
+                "top": 13
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "globalBookmarks": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "cashier": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "lightmanscurrency:coin_emerald",
+                "priceItem2": "lightmanscurrency:coin_gold",
+                "resultItemNBT": "{StoredEnchantments:[{id:\"alexsmobs:lavawax\",lvl:1s}]}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "lightmanscurrency:coin_emerald",
+                "resultItemNBT": "{StoredEnchantments:[{id:\"alexsmobs:serpentfriend\",lvl:1s}]}"
+            }
+        ],
+        "banker": []
+    },
+    "globalBookmarks1": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "cashier": [],
+        "banker": []
+    },
+    "globalBookmarks2": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "cashier": [],
+        "banker": []
+    }
+}

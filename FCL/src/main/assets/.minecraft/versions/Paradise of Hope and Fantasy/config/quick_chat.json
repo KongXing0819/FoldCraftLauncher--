@@ -1,0 +1,53 @@
+{
+  "messageValue": "快来做我黑奴吧！！",
+  "antiFalseContact": false,
+  "chatQuickMessageButton": true,
+  "chatQuickMessageButtonWidth": 80,
+  "messageCoolingDown": false,
+  "messageCoolingDuration": 1,
+  "displayAsComment": false,
+  "chatQuickMessageButtonHeight": 20,
+  "buttonMessageSendMode": "CLICK_TO_SEND",
+  "messageWithComment": [
+    {
+      "message": "[按.打开快捷消息编辑][看看谁把这条消息发出去了]",
+      "comment": "[按.打开快捷消息编辑]"
+    },
+    {
+      "message": "baka",
+      "comment": ""
+    },
+    {
+      "message": "可以漆雕吗~",
+      "comment": ""
+    },
+    {
+      "message": "快到锅里来！",
+      "comment": ""
+    },
+    {
+      "message": "抓住漆雕~",
+      "comment": ""
+    },
+    {
+      "message": "美味的黑奴𝅘𝅥~𝅘𝅥𝅮！𝄻𝅘𝅥𝅬# 𝄽",
+      "comment": ""
+    },
+    {
+      "message": "西内~",
+      "comment": ""
+    },
+    {
+      "message": "谢谢款待（",
+      "comment": ""
+    },
+    {
+      "message": "𝅘𝅥~𝅘𝅥𝅮！𝄻𝅘𝅥𝅬# 𝄽",
+      "comment": ""
+    },
+    {
+      "message": "/home",
+      "comment": "回家 需要设置家的名字为home"
+    }
+  ]
+}

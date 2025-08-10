@@ -1,0 +1,4 @@
+eureka-1201-1.5.1-beta.3.jar
+valkyrienskies-120-2.3.0-beta.7.jar
+clockwork-1.20.1-0.1.16-forge-b3b22e39fe.jar
+vs_addition-1.20.1-0.0.10.2+735db2331d.jar

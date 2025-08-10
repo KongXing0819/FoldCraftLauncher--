@@ -1,0 +1,30 @@
+#Whether to log the dirt block on common setup
+logDirtBlock = true
+#A number to decide how many channels can be used
+#Range: > 1
+ChannelCount = 20
+#Loading message
+magicNumberIntroduction = "The max channel was set to"
+#Your server's only ID in SQL. Notice: Only allow 20 length below!
+worldID = "OverWorld"
+#whether use sql or not! Notice:Only open it in server or might lead to high delay for client can't link to SQL!
+enable_sql = false
+#The SQL IP to use
+serverIP = "127.0.0.1:3306"
+#The SQL name to use
+sqlName = "root"
+#The SQL password to use
+sqlPassword = "123456"
+#A number to decide how far away Teleporter will disturb each other.
+#Range: > 1
+DisturbDistance = 112
+#If enable teleporter can transfer item in one server
+allowSameWorldTeleport = false
+#If enable teleporter can transfer item through dimensions such as :end to nether
+#Only available if same world(server) teleport enable.
+allowSameDimensionsTeleport = false
+#A list of items to log on common setup.
+items = ["minecraft:iron_ingot"]
+#The SQL database to use
+sql_database = "teleporter"
+

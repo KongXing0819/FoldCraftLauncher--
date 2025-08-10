@@ -1,0 +1,10 @@
+#Fri Aug 08 20:30:15 CST 2025
+BLOCK_ENTITY_SHADOWS=false
+ENTITY_SHADOWS=false
+REFLECTION=false
+REFLECTION_SPECULAR=false
+SHADOWS=false
+SPECULAR_SKY_REF=false
+WATER_WAVES=false
+shadowDistance=128.0
+shadowMapResolution=1024
