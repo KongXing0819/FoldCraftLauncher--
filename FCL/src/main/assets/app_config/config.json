@@ -24,36 +24,12 @@
         "isolateGameDir": false,
         "pojavBigCore": false
       },
-      "gameDir": "/storage/emulated/0/FCL-Server/.minecraft",
+      "gameDir": "/storage/emulated/0/MoWhite/.minecraft",
       "selectedMinecraftVersion": ""
     },
-    "私有目录": {
-      "global": {
-        "usesGlobal": true,
-        "javaArgs": "",
-        "minecraftArgs": "",
-        "maxMemory": -1,
-        "autoMemory": true,
-        "permSize": "",
-        "serverIp": "",
-        "java": "Auto",
-        "newScaleFactor": 100,
-        "notCheckGame": false,
-        "notCheckJVM": false,
-        "beGesture": true,
-        "vulkanDriverSystem": false,
-        "controller": "00000000",
-        "renderer": "",
-        "driver": "",
-        "isolateGameDir": false,
-        "pojavBigCore": false
-      },
-      "gameDir": "/storage/emulated/0/Android/data/com.tungsten.fcl.server/files/.minecraft",
-      "selectedMinecraftVersion": ""
-    }
   },
   "downloadThreads": 64,
   "downloadType": "bmclapi",
-  "last": "私有目录",
+  "last": "公有目录",
   "versionListSource": "balanced"
 }
