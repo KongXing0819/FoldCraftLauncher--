@@ -12,7 +12,7 @@
         "autoMemory": true,
         "permSize": "",
         "serverIp": "",
-        "java": "Auto",
+        "java": "jre21",
         "newScaleFactor": 100,
         "notCheckGame": false,
         "notCheckJVM": false,
