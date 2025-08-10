@@ -32,7 +32,7 @@ jobs:
     # 5. 使用 Gradle 构建项目
     # AGP 会在这一步自动下载并使用 ndkVersion "27.0.12077973"
     - name: Build with Gradle
-      run: ./gradlew :FCL:assembleDebug
+      run: ./gradlew :FCL:assembleDebug -Darch=arm64
 
     # 6. 使用通配符上传构建生成的 APK
     - name: Upload APK artifact
