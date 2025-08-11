@@ -1,0 +1,9 @@
+{
+  "id" : "e9eeb73bd85049b38cfca1571a5ea376",
+  "name" : "BlueSky114514",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDgzMjI0MTY3NywKICAicHJvZmlsZUlkIiA6ICJlOWVlYjczYmQ4NTA0OWIzOGNmY2ExNTcxYTVlYTM3NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlU2t5MTE0NTE0IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMxZjQ3N2ViMWE3YmVlZTYzMWMyY2E2NGQwNmY4ZjY4ZmE5M2EzMzg2ZDA0NDUyYWIyN2Y0M2FjZGYxYjYwY2IiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

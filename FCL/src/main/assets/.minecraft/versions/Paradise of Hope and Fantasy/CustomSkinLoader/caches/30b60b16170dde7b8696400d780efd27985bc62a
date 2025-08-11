@@ -1,0 +1,9 @@
+{
+  "id" : "0dc522adca414d3fae87dd212662feef",
+  "name" : "teacher_kong",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDgzNjk0ODU1NSwKICAicHJvZmlsZUlkIiA6ICIwZGM1MjJhZGNhNDE0ZDNmYWU4N2RkMjEyNjYyZmVlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0ZWFjaGVyX2tvbmciLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTIwZDI4NDE4NzQ5YzY0NzU1NzBhY2EyZjM0Njg5ZTBlYTkyZWQ3MTZiMjFlYjQ3ODJlNGY0YTZkM2ExYjI0ZSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

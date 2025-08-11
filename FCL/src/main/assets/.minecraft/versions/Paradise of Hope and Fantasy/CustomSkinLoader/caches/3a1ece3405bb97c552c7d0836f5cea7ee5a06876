@@ -1,0 +1,9 @@
+{
+  "id" : "22f53c3ff59a45e0bf6c674907aa879f",
+  "name" : "izumi__",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDgzMzM2Nzc0MSwKICAicHJvZmlsZUlkIiA6ICIyMmY1M2MzZmY1OWE0NWUwYmY2YzY3NDkwN2FhODc5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJpenVtaV9fIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgxMzM0MzU1YmVlYTBkM2I4YmFhZmM3MmRhOTJjNzk4MmY4OGM1NDNhMGI2YzQzMDZmN2MwN2FiMDllYTk3ZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -26,7 +26,7 @@ defaultListOrder = "ASCENDING"
 #Range: > 0
 pauseMenuButtonOffset = 4
 #The path to the folder containing the screenshots images that will be displayed in the screen.
-screenshotsFolder = "F:\\2.4\\client\\墨白生存服一键启动包v5.0\\.minecraft\\versions\\Paradise of Hope and Fantasy\\screenshots"
+screenshotsFolder = "F:\\A\\齿轮の松饼小镇v5.0.1\\.minecraft\\versions\\Paradise of Hope and Fantasy\\screenshots"
 #If enabled, clicking on the link printed in the chat when taking a screenshot will open it directly in the screenshot manager.
 redirectScreenshotChatLinks = false
 #The visibility state of the screenshots names.

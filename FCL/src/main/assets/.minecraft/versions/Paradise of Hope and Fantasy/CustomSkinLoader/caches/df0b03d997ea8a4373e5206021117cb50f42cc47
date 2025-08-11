@@ -1,0 +1,9 @@
+{
+  "id" : "107c28d93b734646a8f202ac2c17f1d0",
+  "name" : "moshusi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDgzNDM3Mjc5NiwKICAicHJvZmlsZUlkIiA6ICIxMDdjMjhkOTNiNzM0NjQ2YThmMjAyYWMyYzE3ZjFkMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtb3NodXNpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc0N2MxNTgyYTQ0MTkwODM0OTYzMGYxOTFlNTg3MWYwNzAyMGE4ODY3NjI1YWJlMzk3YThiNjYzY2ExZTNiZDkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

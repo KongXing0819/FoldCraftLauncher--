@@ -1,0 +1,9 @@
+{
+  "id" : "4318a4b9bb3c498c9754ec92800dbedc",
+  "name" : "wokajing",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDg4MjQxODg3OSwKICAicHJvZmlsZUlkIiA6ICI0MzE4YTRiOWJiM2M0OThjOTc1NGVjOTI4MDBkYmVkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3b2thamluZyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84OWY5MDg4ZDlkNzc1NTA1YTU4MTgwMjM5MTIwZTM0YTc1NWU1YWIwNDQxNjFlMzk0YzIzMTEwYjMxMmEyNmYzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

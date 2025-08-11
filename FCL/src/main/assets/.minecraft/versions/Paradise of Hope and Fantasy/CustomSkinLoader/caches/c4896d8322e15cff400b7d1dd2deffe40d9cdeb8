@@ -1,0 +1,9 @@
+{
+  "id" : "c27e032bdc5f486db0014a36998c8e94",
+  "name" : "Hydro_Fluo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDgxMzA3MDcyNCwKICAicHJvZmlsZUlkIiA6ICJjMjdlMDMyYmRjNWY0ODZkYjAwMTRhMzY5OThjOGU5NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeWRyb19GbHVvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk2OGQxZTkxY2E3YzUwZjUyOGQxMzRiNTU0MmYxOTc5MjA2NWJiNWQ0ZmFiMGE4MDYxNmEwZjdjZjNiZGQ3YjUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

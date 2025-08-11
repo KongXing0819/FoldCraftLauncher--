@@ -1,0 +1,9 @@
+{
+  "id" : "14090c6f20364a8a8b5ad051f6c20bea",
+  "name" : "1person_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDg4MjQxMjA3MSwKICAicHJvZmlsZUlkIiA6ICIxNDA5MGM2ZjIwMzY0YThhOGI1YWQwNTFmNmMyMGJlYSIsCiAgInByb2ZpbGVOYW1lIiA6ICIxcGVyc29uXyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zOTY0ZDNjMjZiMmRhZmY0Mjk1NWIyZTc2YTdjNzY5OGJkMzliMWJjYjAzMzA1ZTZmNTkxM2JjNWNhNzhlMWU4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

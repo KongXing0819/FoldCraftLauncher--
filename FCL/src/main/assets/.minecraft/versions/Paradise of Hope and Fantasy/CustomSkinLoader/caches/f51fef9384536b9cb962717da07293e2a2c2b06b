@@ -1,0 +1,9 @@
+{
+  "id" : "bac52fae22634739adfdd5b279eea7ab",
+  "name" : "kirimio",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDg4MjQxMjU3NiwKICAicHJvZmlsZUlkIiA6ICJiYWM1MmZhZTIyNjM0NzM5YWRmZGQ1YjI3OWVlYTdhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJraXJpbWlvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QxN2M4MjMzYmQ5MzAwZDExYjkyOTAyMjMzZWE1NGE5YjU1N2VmZTM5MGEzZTM5NDJiZmY4OGYyNGE4NGY1NDAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

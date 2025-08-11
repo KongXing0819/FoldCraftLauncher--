@@ -1,0 +1,9 @@
+{
+  "id" : "787cd914de724453a2ff02c2eaa78665",
+  "name" : "5555",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDg4MTU2NTkyMSwKICAicHJvZmlsZUlkIiA6ICI3ODdjZDkxNGRlNzI0NDUzYTJmZjAyYzJlYWE3ODY2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICI1NTU1IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzliNzRjMzQyMDY5YWQyMTcyZWRkOTU4MDJjNzFlZGQ3OTgyMDVlYmE2NTk1M2E0YTdlZjMxOTVlZTAxZmRhYzUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

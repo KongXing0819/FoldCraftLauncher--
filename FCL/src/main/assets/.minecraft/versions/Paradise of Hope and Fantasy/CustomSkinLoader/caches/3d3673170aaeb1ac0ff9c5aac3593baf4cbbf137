@@ -1,0 +1,9 @@
+{
+  "id" : "5d45f1f388744c6d925abf7ce8f959d1",
+  "name" : "madepepper",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDgzMjI0Mzg2NiwKICAicHJvZmlsZUlkIiA6ICI1ZDQ1ZjFmMzg4NzQ0YzZkOTI1YWJmN2NlOGY5NTlkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWRlcGVwcGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVhYjA3ZGRhMDEzMjExNWMwZjJhM2Q0NTcwZjRjOGYxODg1YjYxYzdhZmQyZjI0Yjc4YjE5MTNlNGU3NWZkMDYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

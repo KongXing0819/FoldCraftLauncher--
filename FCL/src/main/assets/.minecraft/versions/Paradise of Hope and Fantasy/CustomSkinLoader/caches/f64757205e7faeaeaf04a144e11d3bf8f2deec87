@@ -1,0 +1,9 @@
+{
+  "id" : "e0b5b5e5d1d944f9918eccb03e36acfd",
+  "name" : "mobaizhi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDgzMjIyNDkwMSwKICAicHJvZmlsZUlkIiA6ICJlMGI1YjVlNWQxZDk0NGY5OTE4ZWNjYjAzZTM2YWNmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtb2JhaXpoaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kOTdlYzI5ZGFlMjgzNDg5NjQ2YzZiZjhiNmFiMTVmZjEwNmVmYjlmOTUzYzYyYTJlOTg3MDQ0MzljOTAzOWJhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

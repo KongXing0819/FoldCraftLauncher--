@@ -1,0 +1,9 @@
+{
+  "id" : "a3eafbadac044388b0a1250c881c0a0c",
+  "name" : "naitang68",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDgzOTExODg2NywKICAicHJvZmlsZUlkIiA6ICJhM2VhZmJhZGFjMDQ0Mzg4YjBhMTI1MGM4ODFjMGEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJuYWl0YW5nNjgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzYzYjFkODExNzdkZTQ2NjZhZTk3MjczODc0YmIxZTg4NmUyNDM5NDg0MGFjZjQ3ZGM2YjVjZGRhYWJjNTg4NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

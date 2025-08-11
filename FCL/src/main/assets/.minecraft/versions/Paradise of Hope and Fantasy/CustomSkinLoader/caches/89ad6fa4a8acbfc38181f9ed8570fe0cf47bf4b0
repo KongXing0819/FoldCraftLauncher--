@@ -1,0 +1,9 @@
+{
+  "id" : "ea64ace5749b496c81a903fc42a57219",
+  "name" : "man69",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDgzNjk0ODU1MywKICAicHJvZmlsZUlkIiA6ICJlYTY0YWNlNTc0OWI0OTZjODFhOTAzZmM0MmE1NzIxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYW42OSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83OWYyMjhjMWQwNjIyNTRiYjI3MTY0Y2M0NGY4ZTIxNzkwZTFjYzI4OTgwNTkyNjQ0ZTUwODMzMWVhMzA2YWEwIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

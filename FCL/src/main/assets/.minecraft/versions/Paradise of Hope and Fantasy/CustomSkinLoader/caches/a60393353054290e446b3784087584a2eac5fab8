@@ -1,0 +1,9 @@
+{
+  "id" : "c8a07eab516e43f49ea89ef23bc0e541",
+  "name" : "UchiHaba",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDgzNzc2ODk4NiwKICAicHJvZmlsZUlkIiA6ICJjOGEwN2VhYjUxNmU0M2Y0OWVhODllZjIzYmMwZTU0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJVY2hpSGFiYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZGM0NDk3MzlhYmZjOTNkZGZmOTM0MTI4NmJkY2M2ZTYxMGM3ZGI0MjRlYjBjNjQ1OGFjZmY4Y2Y5ZDc4OWRkIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

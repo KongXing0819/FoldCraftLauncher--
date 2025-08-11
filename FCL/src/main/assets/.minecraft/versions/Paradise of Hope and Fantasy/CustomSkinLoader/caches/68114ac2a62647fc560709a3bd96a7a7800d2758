@@ -1,0 +1,9 @@
+{
+  "id" : "af859405f03c4676a8456f4b753a6751",
+  "name" : "Zrover",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc1NDg4MjQxMjA2OCwKICAicHJvZmlsZUlkIiA6ICJhZjg1OTQwNWYwM2M0Njc2YTg0NTZmNGI3NTNhNjc1MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJacm92ZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q1N2U2ODBjMGNiMDIzN2ZiZGM5YjQzZDdhYjNkYmFkNmYzOWU3MDEzY2VlYWVmNDc0YjE3M2FkMGFmMTNiMSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
